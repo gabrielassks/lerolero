@@ -2,7 +2,7 @@ import random
 
 parte1 = [
     "O código está funcionando perfeitamente",
-    "Preciso revisar esse commit",
+    "Preciso revisar esse commit agora",
     "Vamos atualizar o repositório"
 ]
 parte2 = [
